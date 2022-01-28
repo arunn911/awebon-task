@@ -1,0 +1,42 @@
+export const data = [
+    {
+        "id": 10,
+        "maths": 25,
+        "physics": 29,
+        "chemistry": 25,
+        "biology": 30,
+        "english": 31,
+    },
+    {
+        "id": 11,
+        "maths": 57,
+        "physics": 50,
+        "chemistry": 52,
+        "biology": 50,
+        "english": 55,
+    },
+    {
+        "id": 12,
+        "maths": 65,
+        "physics": 75,
+        "chemistry": 80,
+        "biology": 65,
+        "english": 70,
+    },
+    {
+        "id": 13,
+        "maths": 85,
+        "physics": 90,
+        "chemistry": 95,
+        "biology": 98,
+        "english": 96,
+    },
+    {
+        "id": 14,
+        "maths": 90,
+        "physics": 35,
+        "chemistry": 40,
+        "biology": 80,
+        "english": 75,
+    },
+]
