@@ -15,7 +15,7 @@ function App() {
 
   // console.log("useResult :", results);
 
-  console.log("error :", error)
+  // console.log("error :", error)
 
   
 
